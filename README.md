@@ -1,2 +1,2 @@
-# ids705-kaggle
+# Kaggle Competition
 Kaggle Competition for IDS 705
